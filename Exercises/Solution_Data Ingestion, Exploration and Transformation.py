@@ -1,5 +1,5 @@
 # Databricks notebook source
-#Uncomment the following line, click on the button to install bamboolib. Run the couple of cells thus created to install and import Bamboolib
+#Uncomment the following line, click on the button to install bamboolib. Run the couple of cells thus created to install and import Bamboolib (the latter is optional)
 import pandas as pd
 
 # COMMAND ----------
